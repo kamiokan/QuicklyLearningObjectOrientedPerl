@@ -1,5 +1,5 @@
 #
-# Heppoko.pm -- へっぽこ産業の情報
+# Heppoko.pm -- へっぽこ産業の情報 ver2
 
 package Heppoko;
 
@@ -7,6 +7,7 @@ use strict;
 use warnings;
 
 sub kaishaMei {"へっぽこ産業株式会社"}
+sub tenmei    {"本店"}
 sub shachou   {"へっぽこ大助"}
 sub juusho    {"台風県大雨市雷町1-2-3"}
 sub denwa     {"123-456-789"}
